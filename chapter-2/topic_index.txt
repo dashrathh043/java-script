@@ -1,0 +1,2 @@
+1. Use strict
+2. function
